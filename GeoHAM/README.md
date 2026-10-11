@@ -1,6 +1,15 @@
 # GeoHam: Geometric Hamiltonian Network for Remote Sensing Change Detection
 
 <p align="center">
+# GeoHam
+
+Code for "GeoHam: Symplectic-Regularized Feature Evolution for Efficient Remote Sensing Change Detection," published in IEEE GRSL, 2026.
+
+**Manuscript:** [geoham-manuscript.pdf](./geoham-manuscript.pdf)
+**Published version:** https://doi.org/10.1109/LGRS.2026.3728830
+
+> © 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
+
 
 **Physics-Inspired Deep Learning for High-Resolution Remote Sensing Change Detection**
 
